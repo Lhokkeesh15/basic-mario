@@ -1,1 +1,1 @@
-made by cursor - developed using prompts
+made by cursor - written using prompts
